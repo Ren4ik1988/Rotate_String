@@ -5,3 +5,9 @@ E:\Projects Git\Rotate String\Rotate String\obj\Debug\Rotate String.csprojResolv
 E:\Projects Git\Rotate String\Rotate String\obj\Debug\Rotate String.csproj.CoreCompileInputs.cache
 E:\Projects Git\Rotate String\Rotate String\obj\Debug\Rotate String.exe
 E:\Projects Git\Rotate String\Rotate String\obj\Debug\Rotate String.pdb
+D:\Projects\Rotate_String\Rotate String\bin\Debug\Rotate String.exe.config
+D:\Projects\Rotate_String\Rotate String\bin\Debug\Rotate String.exe
+D:\Projects\Rotate_String\Rotate String\bin\Debug\Rotate String.pdb
+D:\Projects\Rotate_String\Rotate String\obj\Debug\Rotate String.csprojResolveAssemblyReference.cache
+D:\Projects\Rotate_String\Rotate String\obj\Debug\Rotate String.exe
+D:\Projects\Rotate_String\Rotate String\obj\Debug\Rotate String.pdb
