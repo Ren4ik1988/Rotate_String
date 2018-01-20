@@ -64,26 +64,25 @@ namespace Rotate_String
             if (rotateIndex < 0)
             {
                 rotateIndex = Math.Abs(rotateIndex);
-                ToRotate.Reverse();
+                Array.Reverse(ToRotate);
                 needRevers = true;
             }
 
             for (int k = 0; k < rotateIndex; k++)
             {
                 char temp = ToRotate[0];
-                ToRotate[0] = ToRotate[ToRotate.Length - 1];
                 
-                for (int i = ToRotate.Length -1 ; i > 1; i--)
+                for (int i = 0 ; i < ToRotate.Length - 1; i++)
                 {
-                    ToRotate[i] = ToRotate[i - 1];
+                    ToRotate[i] = ToRotate[i+1];
                 }
 
-                ToRotate[1] = temp;
+                ToRotate[ToRotate.Length-1] = temp;
             }
 
             if (needRevers)
             {
-                ToRotate.Reverse();
+                Array.Reverse(ToRotate);
             }
         }
     }
